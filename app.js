@@ -3,5 +3,6 @@
  */
 var timesheetConfig = {
     view: 'date',
-    steps:'5'
+    steps:'8',
+    startWeek:'1'
 }
